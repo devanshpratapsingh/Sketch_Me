@@ -10,4 +10,4 @@ This is done is simple 5 steps-
 4. Using Gaussian_Blur to remove high-frequency components
 <img src="imgs/4.png" height="400px" width="300px">
 5. Implementing dodging for getting the final output.
-<img src="imgs/4.png" height="400px" width="300px">
+<img src="imgs/5.png" height="400px" width="300px">
